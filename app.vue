@@ -12,7 +12,7 @@
     import {
       useRouter
     } from 'vue-router'
-    import SplashScreen from './components/suite/splashScreen.vue'
+    import SplashScreen from './splashScreen.vue'
     export default defineComponent({
       name: 'App',
       setup() {
